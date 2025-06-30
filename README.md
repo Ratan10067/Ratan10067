@@ -45,7 +45,7 @@
 - 🎯 **HackerRank**: Strengthening data structures & algorithms
 
 ### Achievements
-- 🌟 Solved 800+ problems across various platforms
+- 🌟 Solved 1500+ problems across various platforms
 - 🏅 Consistent participant in weekly contests
 - 📈 Constantly improving rating and problem-solving speed
 - 💪 Strong foundation in Data Structures and Algorithms
