@@ -111,19 +111,6 @@
 - 🚀 Diving deeper into system design and scalable architecture
 - 📱 Expanding mobile development skills with React Native and Kotlin
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ratan10067&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratan10067&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratan10067&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ## 🤝 Let's Connect!
 
